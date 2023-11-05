@@ -1,4 +1,5 @@
- "cargo": [
+{
+"cargo": [
     {
       "id": 1,
       "cargo": "recepcionista",
@@ -28,3 +29,4 @@
       "hotel_id": 1
     }
   ]
+}
