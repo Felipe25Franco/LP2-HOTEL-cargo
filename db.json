@@ -1,0 +1,30 @@
+ "cargo": [
+    {
+      "id": 1,
+      "cargo": "recepcionista",
+      "descricao": "zzzzzzzzzz",
+      "salarioBase": "3000",
+      "hotel_id": 1
+    },
+    {
+      "id": 2,
+      "cargo": "gerente",
+      "descricao": "zzzzzzzzzz",
+      "salarioBase": "10000",
+      "hotel_id": 1
+    },
+    {
+      "id": 3,
+      "cargo": "financeiro1",
+      "descricao": "zzzzzzzzzz",
+      "salarioBase": "5000",
+      "hotel_id": 1
+    },
+    {
+      "id": 4,
+      "cargo": "limpeza",
+      "descricao": "zzzzzzzzzz",
+      "salarioBase": "2000",
+      "hotel_id": 1
+    }
+  ]
